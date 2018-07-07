@@ -1,1 +1,2 @@
-com.nxn.songpop_namethatsongNXN_TAGhttps://raw.githubusercontent.com/nxn4290/music/master/guess_the_song_asset/
+com.nxn.songpop_namethatsongNXN_TAGhttps://raw.githubusercontent.com/nxn4290/music/master/guess_the_song_asset_/
+com.nxn.musicsquizNXN_TAGhttps://raw.githubusercontent.com/nxn4290/music/master/music_quiz_asset/
